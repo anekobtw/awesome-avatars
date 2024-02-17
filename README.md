@@ -2,10 +2,9 @@
 Here you can find plenty of beautiful anime avatars for free
 
 # Girls
-<img src="girls/pfp1.jpg" width="100" height="100"></img>
-<img src="girls/pfp2.png" width="100" height="100"></img>
+<img src="girls/pfp2.jpg" width="100" height="100"></img>
 <img src="girls/pfp3.png" width="100" height="100"></img>
-<img src="girls/pfp4.jpg" width="100" height="75"></img>
+<img src="girls/pfp4.png" width="100" height="100"></img>
 <img src="girls/pfp5.jpg" width="100" height="100"></img>
 <img src="girls/pfp6.png" width="100" height="100"></img>
 <img src="girls/pfp7.png" width="100" height="100"></img>
