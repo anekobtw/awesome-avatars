@@ -1,4 +1,4 @@
-# Anime profile photos
+# Anime profile photos 🔥
 Looking for captivating anime avatars to personalize your profile? Look no further! We've curated a collection of stunning anime avatars for free use.
 - [Girls](https://github.com/anekobtw/anime-avatars?tab=readme-ov-file#girls)
 - [Boys](https://github.com/anekobtw/anime-avatars?tab=readme-ov-file#boys)
