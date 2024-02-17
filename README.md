@@ -1,5 +1,7 @@
 # Anime profile photos
 Here you can find plenty of beautiful anime avatars for free
+[Girls](https://github.com/anekobtw/anime-avatars?tab=readme-ov-file#girls)
+[Girls](https://github.com/anekobtw/anime-avatars?tab=readme-ov-file#boys)
 
 # Girls
 <img src="girls/pfp2.jpg" width="100" height="100"></img>
