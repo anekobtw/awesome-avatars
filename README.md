@@ -1,9 +1,10 @@
 # Anime profile photos 🔥
-Here you can find plenty of captivating anime profile photos.
+If you can't find a good anime avatar for yourself, this repository is for you!
 - [Girls](https://github.com/anekobtw/anime-avatars?tab=readme-ov-file#girls)
 - [Boys](https://github.com/anekobtw/anime-avatars?tab=readme-ov-file#boys)
 
 # Girls
+<img src="girls/pfp1.png" width="100" height="100"></img>
 <img src="girls/pfp2.jpg" width="100" height="100"></img>
 <img src="girls/pfp3.png" width="100" height="100"></img>
 <img src="girls/pfp4.png" width="100" height="100"></img>
@@ -34,3 +35,13 @@ Here you can find plenty of captivating anime profile photos.
 <img src="boys/pfp5.jpg" width="100" height="100"></img>
 <img src="boys/pfp6.jpg" width="100" height="100"></img>
 <img src="boys/pfp7.jpg" width="100" height="100"></img>
+<img src="boys/pfp8.jpg" width="100" height="100"></img>
+<img src="boys/pfp9.jpg" width="100" height="100"></img>
+<img src="boys/pfp10.jpg" width="100" height="100"></img>
+<img src="boys/pfp11.png" width="100" height="100"></img>
+<img src="boys/pfp12.jpg" width="100" height="100"></img>
+<img src="boys/pfp13.png" width="100" height="100"></img>
+<img src="boys/pfp14.png" width="100" height="100"></img>
+<img src="boys/pfp15.png" width="100" height="100"></img>
+<img src="boys/pfp16.png" width="100" height="100"></img>
+<img src="boys/pfp17.png" width="100" height="100"></img>
