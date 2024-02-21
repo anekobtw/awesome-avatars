@@ -1,4 +1,4 @@
-# Anime profile photos 🔥
+# Aweome anime profile photos 🔥
 If you can't find a good anime avatar for yourself, this repository is for you!
 - [Girls](https://github.com/anekobtw/anime-avatars?tab=readme-ov-file#girls)
 - [Boys](https://github.com/anekobtw/anime-avatars?tab=readme-ov-file#boys)
