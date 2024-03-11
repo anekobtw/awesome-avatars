@@ -45,3 +45,5 @@ If you can't find a good anime avatar for yourself, this repository is for you!
 <img src="boys/pfp15.png" width="100" height="100"></img>
 <img src="boys/pfp16.png" width="100" height="100"></img>
 <img src="boys/pfp17.png" width="100" height="100"></img>
+<img src="boys/pfp18.jpg" width="100" height="100"></img>
+<img src="boys/pfp19.jpg" width="100" height="100"></img>
