@@ -53,16 +53,16 @@ If you can't find a good avatar for yourself, this repository is for you!
 <img src="boys/pfp21.jpg" width="100" height="100"></img>
 
 # Dora
-<img src="dora/pfp1.jpg" width="100" height="100"></img>
-<img src="dora/pfp2.jpg" width="100" height="100"></img>
-<img src="dora/pfp3.jpg" width="100" height="100"></img>
-<img src="dora/pfp4.jpg" width="100" height="100"></img>
-<img src="dora/pfp5.jpg" width="100" height="100"></img>
-<img src="dora/pfp6.jpg" width="100" height="100"></img>
-<img src="dora/pfp7.jpg" width="100" height="100"></img>
-<img src="dora/pfp8.jpg" width="100" height="100"></img>
-<img src="dora/pfp9.jpg" width="100" height="100"></img>
-<img src="dora/pfp10.jpg" width="100" height="100"></img>
-<img src="dora/pfp11.jpg" width="100" height="100"></img>
-<img src="dora/pfp12.jpg" width="100" height="100"></img>
-<img src="dora/pfp13.jpg" width="100" height="100"></img>
+<img src="dora/dora1.jpg" width="100" height="100"></img>
+<img src="dora/dora2.jpg" width="100" height="100"></img>
+<img src="dora/dora3.jpg" width="100" height="100"></img>
+<img src="dora/dora4.jpg" width="100" height="100"></img>
+<img src="dora/dora5.jpg" width="100" height="100"></img>
+<img src="dora/dora6.jpg" width="100" height="100"></img>
+<img src="dora/dora7.jpg" width="100" height="100"></img>
+<img src="dora/dora8.jpg" width="100" height="100"></img>
+<img src="dora/dora9.jpg" width="100" height="100"></img>
+<img src="dora/dora10.jpg" width="100" height="100"></img>
+<img src="dora/dora11.jpg" width="100" height="100"></img>
+<img src="dora/dora12.jpg" width="100" height="100"></img>
+<img src="dora/dora13.jpg" width="100" height="100"></img>
