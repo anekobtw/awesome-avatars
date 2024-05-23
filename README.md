@@ -65,4 +65,3 @@ If you can't find a good avatar for yourself, this repository is for you!
 <img src="dora/dora10.jpg" width="100" height="100"></img>
 <img src="dora/dora11.jpg" width="100" height="100"></img>
 <img src="dora/dora12.jpg" width="100" height="100"></img>
-<img src="dora/dora13.jpg" width="100" height="100"></img>
