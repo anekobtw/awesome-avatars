@@ -1,7 +1,8 @@
-# Aweome anime profile photos 🔥
-If you can't find a good anime avatar for yourself, this repository is for you!
+# Awesome profile photos
+If you can't find a good avatar for yourself, this repository is for you!
 - [Girls](https://github.com/anekobtw/anime-avatars?tab=readme-ov-file#girls)
 - [Boys](https://github.com/anekobtw/anime-avatars?tab=readme-ov-file#boys)
+- Dora is coming..
 
 # Girls
 <img src="girls/pfp1.png" width="100" height="100"></img>
